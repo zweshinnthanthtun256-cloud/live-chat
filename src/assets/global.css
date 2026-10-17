@@ -1,3 +1,7 @@
+body{
+    background:#98989e;
+    color:#444;
+}
 .container{
     width: 90%;
     max-width: 960px;
